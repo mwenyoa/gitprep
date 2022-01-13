@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+.row{
+    margin-top: 30px;
+}
+.card-body{
+    background-color: rgb(100, 19, 177);
+}
